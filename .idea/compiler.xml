@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EssentialsXParent.EssentialsX" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsX.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsX.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXAntiBuild" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXAntiBuild.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXAntiBuild.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXChat" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXChat.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXChat.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXDiscord" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXDiscord.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXDiscord.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXDiscordLink" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXDiscordLink.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXDiscordLink.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXGeoIP" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXGeoIP.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXGeoIP.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXProtect" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXProtect.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXProtect.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXSpawn" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXSpawn.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXSpawn.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXXMPP" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXXMPP.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.EssentialsXXMPP.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.1_12Provider" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.1_12Provider.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.1_12Provider.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.1_8Provider" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.1_8Provider.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.1_8Provider.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.BaseProviders" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.BaseProviders.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.BaseProviders.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.NMSReflectionProvider" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.NMSReflectionProvider.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.NMSReflectionProvider.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.PaperProvider" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.PaperProvider.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="EssentialsXParent.providers.PaperProvider.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsX" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsX.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsX.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXAntiBuild" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXAntiBuild.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXAntiBuild.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXChat" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXChat.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXChat.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXDiscord" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXDiscord.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXDiscord.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXDiscordLink" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXDiscordLink.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXDiscordLink.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXGeoIP" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXGeoIP.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXGeoIP.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXProtect" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXProtect.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXProtect.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXSpawn" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXSpawn.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXSpawn.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXXMPP" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXXMPP.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.EssentialsXXMPP.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.1_12Provider" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.1_12Provider.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.1_12Provider.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.1_8Provider" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.1_8Provider.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.1_8Provider.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.BaseProviders" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.BaseProviders.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.BaseProviders.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.NMSReflectionProvider" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.NMSReflectionProvider.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.NMSReflectionProvider.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.PaperProvider" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.PaperProvider.main" options="-parameters -Xlint:all -Xlint:-deprecation -Xdoclint -Xdoclint:-missing" />
+      <module name="net.essentialsx.EssentialsXParent.providers.PaperProvider.test" options="-parameters -Xlint:all -Xdoclint -Xdoclint:-missing" />
+    </option>
+  </component>
+</project>
